@@ -15,10 +15,11 @@ financial markets, time series analysis and risk modeling.
 
 - **Languages:** Python, SQL
 - **Data Analysis:** pandas, NumPy, SciPy
-- **Machine Learning:** scikit-learn, CatBoost, LightGBM, XGBoost, HMM
+- **Machine Learning:** scikit-learn, CatBoost, LightGBM, XGBoost
+- **Methods:** Time Series Analysis, Econometrics, Hidden Markov Models
 - **Visualization:** Matplotlib, Seaborn
-- **MLOps and Backend:** Airflow, FastAPI, Git
-- **Tools:** Jupyter Notebook, PyCharm
+- **MLOps and Backend:** Airflow, FastAPI
+- **Tools:** Git, Jupyter Notebook, PyCharm
 
 ## Featured Projects
 
