@@ -45,7 +45,7 @@ Automated machine learning pipeline for car price prediction.
 Collection of applied data analysis and machine learning projects,
 including classification, regression, NLP, computer vision and time series.
 
-### [Econometric FX Modeling](https://github.com/deniskhripushin/fx-econometric-models)
+### [Econometric FX Modeling](https://github.com/deniskhripushin/fx-econometric-model)
 
 Econometric analysis of the USD/RUB exchange rate using a multifactor model.
 
